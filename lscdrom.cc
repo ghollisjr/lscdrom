@@ -3,7 +3,6 @@
 #include <fcntl.h>
 #include <unistd.h>
 #include <linux/cdrom.h>
-#include <getopt.h>
 #include <Options.hh>
 #include <string>
 #include <iostream>

@@ -5,4 +5,9 @@ lscdrom does depend on my other library:
 
 https://github.com/ghollisjr/Options
 
+Installation:
+
+1. Run "make".
+2. Copy "lscdrom" to wherever you like to put executables.
+
 lscdrom is in the public domain.
